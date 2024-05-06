@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "imageUrl": "https://cdn.glitch.global/b840a94e-641a-42f3-adcf-a1bd70bdea4b/Admas%20Morgan-City.webp?v=1714849926517",
+    "title": "Adams Morgan",
+    "subtitle": "Long Walk, City, DC",
+    "city": "DC",
+    "duration": "long",
+    "type": "city"
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://cdn.glitch.global/b840a94e-641a-42f3-adcf-a1bd70bdea4b/The%20Great%20Falls-Nature.jpeg?v=1714849926243",
+    "title": "The Great Falls",
+    "subtitle": "Long Walk, Nature, VA",
+    "city": "VA",
+    "duration": "long",
+    "type": "nature"
+  },
+  {
+    "id": 3,
+    "imageUrl": "https://cdn.glitch.global/b840a94e-641a-42f3-adcf-a1bd70bdea4b/Gallery%20Place-City.jpeg?v=1714849926065",
+    "title": "Gallery Place",
+    "subtitle": "Short Walk, City, DC",
+    "city": "DC",
+    "duration": "short",
+    "type": "city"
+  },
+  {
+    "id": 4,
+    "imageUrl": "https://cdn.glitch.global/b840a94e-641a-42f3-adcf-a1bd70bdea4b/Dumbarton%20Oaks%20Gardens.jpeg?v=1714849923310",
+    "title": "Dumbarton Oaks Gardens",
+    "subtitle": "Short Walk, Nature, DC",
+    "city": "DC",
+    "duration": "short",
+    "type": "nature"
+  },
+  {
+    "id": 5,
+    "imageUrl": "https://cdn.glitch.global/b840a94e-641a-42f3-adcf-a1bd70bdea4b/Lake-Artemesia.jpeg?v=1714849923664",
+    "title": "Lake Artemesia",
+    "subtitle": "Short Walk, Nature, MD",
+    "city": "MD",
+    "duration": "short",
+    "type": "nature"
+  },
+  {
+    "id": 6,
+    "imageUrl": "https://cdn.glitch.global/b840a94e-641a-42f3-adcf-a1bd70bdea4b/Rock%20Creek-Nature.jpeg?v=1714849925675",
+    "title": "Rock Creek Park",
+    "subtitle": "Long Walk, Nature, DC",
+    "city": "DC",
+    "duration": "long",
+    "type": "nature"
+  },
+  {
+    "id": 7,
+    "imageUrl": "https://cdn.glitch.global/b840a94e-641a-42f3-adcf-a1bd70bdea4b/Greenbelt-Nature.jpeg?v=1714849925270",
+    "title": "Greenbelt Park",
+    "subtitle": "Long Walk, Nature, MD",
+    "city": "MD",
+    "duration": "long",
+    "type": "nature"
+  },
+  {
+    "id": 8,
+    "imageUrl": "https://cdn.glitch.global/b840a94e-641a-42f3-adcf-a1bd70bdea4b/Baltimore%20Avenue-City.jpeg?v=1714849924993",
+    "title": "Baltimore Avenue",
+    "subtitle": "Short Walk, City, MD",
+    "city": "MD",
+    "duration": "short",
+    "type": "city"
+  },
+  {
+    "id": 9,
+    "imageUrl": "https://cdn.glitch.global/b840a94e-641a-42f3-adcf-a1bd70bdea4b/Rockville-City.jpeg?v=1714849924641",
+    "title": "Rockville",
+    "subtitle": "Long Walk, City, MD",
+    "city": "MD",
+    "duration": "long",
+    "type": "city"
+  },
+  {
+    "id": 10,
+    "imageUrl": "https://cdn.glitch.global/b840a94e-641a-42f3-adcf-a1bd70bdea4b/Arlington%20Heights.webp?v=1714849923990",
+    "title": "Arlington Heights",
+    "subtitle": "Long Walk, City, VA",
+    "city": "VA",
+    "duration": "long",
+    "type": "city"
+  },
+  {
+    "id": 11,
+    "imageUrl": "https://cdn.glitch.global/b840a94e-641a-42f3-adcf-a1bd70bdea4b/PotomacPark-Nature.jpeg?v=1714849924322",
+    "title": "Potomac Overlook Regional Park",
+    "subtitle": "Short Walk, Nature, VA",
+    "city": "VA",
+    "duration": "short",
+    "type": "nature"
+  },
+  {
+    "id": 12,
+    "imageUrl": "https://cdn.glitch.global/b840a94e-641a-42f3-adcf-a1bd70bdea4b/Lyon%20Village.jpeg?v=1714849924103",
+    "title": "Lyon Village",
+    "subtitle": "Short Walk, City, VA",
+    "city": "VA",
+    "duration": "short",
+    "type": "city"
+  }
+]
